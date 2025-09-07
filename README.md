@@ -31,6 +31,10 @@ javac NumberGuessingGame.java
 5. Run the game:
 java NumberGuessingGame
 
+## 🖼️ Screenshot
+![Game Screenshot](image/image.jpg)
+
+
 **📦 Requirements**
 
 Java JDK 8 or higher
