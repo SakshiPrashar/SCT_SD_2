@@ -1,10 +1,10 @@
-Number Guessing Game – Java Console Version
+**Number Guessing Game – Java Console Version**
 
 This is a simple and interactive Number Guessing Game built using Java.
 The game generates a random number between 1 and 100, and the player has to guess the number.
 The program provides instant feedback for each guess and counts the number of attempts taken.
 
-💻 Features
+💻 **Features**
 
 1. Random number generation between 1 and 100.
 
@@ -16,7 +16,7 @@ The program provides instant feedback for each guess and counts the number of at
 
 5. Input validation for valid numeric input.
 
-🚀 How to Run
+**🚀 How to Run**
 
 1. Install Java JDK
 
@@ -32,13 +32,13 @@ javac NumberGuessingGame.java
 5. Run the game:
 java NumberGuessingGame
 
-📦 Requirements
+**📦 Requirements**
 
 Java JDK 8 or higher
 
 No external libraries required
 
-📁 File Structure
+**📁 File Structure**
 number-guessing-game/
 ├── NumberGuessingGame.java  
 ├── README.md                 
