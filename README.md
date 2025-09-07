@@ -42,7 +42,10 @@ No external libraries required
 
 **📁 File Structure**
 Number_Guessing_Game/
-├── NumberGuessingGame.java    
-├── README.md                  
-└── .gitignore                
+├── NumberGuessingGame.java
+├── README.md
+├── .gitignore
+└── image/
+    └── image.jpg
+              
 
